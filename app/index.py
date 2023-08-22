@@ -1,1 +1,1 @@
-print( "Seja bem vindo aos testes da Wagber Academy" )
+print( "Seja bem vindo aos testes de Wagber Academy" )
